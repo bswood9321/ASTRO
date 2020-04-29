@@ -66,7 +66,7 @@ fig,ax=plt.subplots(figsize=(8,10))
 ax.set_xlim(0,70)
 ax.set_ylim(15,-10)
 ax.grid()
-ax.set_title('H-R Diagram \n (Hippacarpos catalog)')
+ax.set_title('H-R Diagram \n (Hipparcos catalog)')
 
 ax.title.set_fontsize(20)
 ax.set_xlabel('spectral class')
